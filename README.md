@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I’m currently learning Coding
 - I'm originally from China
 - I'm a SOPHOMORE in Computer Engineering
-- I chose my major because it's fun
-- A fun fact about me is:  none
+- I chose my major because it's fun to learn
+- A fun fact about me is:  I skip 4th grade
 - What do I want to learn from EE 205?  Programming
-- A book or movie I'd recommend is:  none
+- A book or movie I'd recommend is:  3 body problem book
