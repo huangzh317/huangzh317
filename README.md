@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hi, I’m FILL_THIS_IN
-- I’m interested in FILL_THIS_IN
-- I’m currently learning FILL_THIS_IN
-- I'm originally from FILL_THIS_IN
-- I'm a (FRESHMAN, SOPHOMORE, JUNIOR, etc.) in YOUR_MAJOR
-- I chose my major because FILL_THIS_IN
-- A fun fact about me is:  FILL_THIS_IN
-- What do I want to learn from EE 205?  FILL_THIS_IN
-- A book or movie I'd recommend is:  FILL_THIS_IN
+- Hi, I’m Zi Hao
+- I’m interested in Drawing
+- I’m currently learning Coding
+- I'm originally from China
+- I'm a SOPHOMORE in Computer Engineering
+- I chose my major because it's fun
+- A fun fact about me is:  none
+- What do I want to learn from EE 205?  Programming
+- A book or movie I'd recommend is:  none
